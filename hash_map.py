@@ -1,10 +1,4 @@
 # Name: Aaron Wheaton
-# OSU Email: wheatoaa@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: Assignment 7
-# Due Date: Dec 3 by 11:59pm
-# Description: This assignment is an implimentation of a hashmap.
-
 
 # Import pre-written DynamicArray and LinkedList classes
 from a7_include import *
